@@ -14,3 +14,9 @@ Required via [plugin configuration](./lua/custom/plugin/settings.lua).
 - [tmux-navigator](https://github.com/christoomey/vim-tmux-navigator)
 - [undotree](https://github.com/mbbill/undotree)
 
+## TODO
+- debugger
+  - golang (see debug.lua)
+  - yaml (write k8s integration)
+  - maybe java?
+
