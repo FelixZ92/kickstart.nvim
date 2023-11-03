@@ -12,7 +12,8 @@ return {
         mappings = {
           ["P"] = { "toggle_preview", config = { use_float = true, use_image_nvim = false } },
         }
-      }
+      },
+      use_libuv_file_watcher = true
     })
     vim.keymap.set("n", "<C-n>", "<cmd>Neotree toggle source=filesystem<cr>",
       {silent = true, noremap = true}
