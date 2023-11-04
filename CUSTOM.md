@@ -8,6 +8,8 @@ Required via [plugin configuration](./lua/custom/plugin/settings.lua).
 ## Additional plugins
 - [autopairs](https://github.com/windwp/nvim-autopairs)
 - [catpuccin](https://github.com/catppuccin/nvim)
+- [nvim-dap](https://github.com/mfussenegger/nvim-dap)
+- [nvim-dap-ui](https://github.com/rcarriga/nvim-dap-ui)
 - [harpoon](https://github.com/ThePrimeagen/harpoon)
 - [illuminate](https://github.com/RRethy/vim-illuminate)
 - [neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
